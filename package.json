@@ -1,0 +1,15 @@
+{
+  "name": "ts34",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "16.11.33"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
